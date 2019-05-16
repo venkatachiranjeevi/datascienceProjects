@@ -1,0 +1,7 @@
+arguments: src/align/align_dataset_mtcnn.py ../../../Downloads/ex/ --image_size 182 --margin 44 ../Models_Faces_venkat/
+--------------------
+tensorflow version: 1.7.0
+--------------------
+git hash: b''
+--------------------
+b''
